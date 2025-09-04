@@ -1,0 +1,3 @@
+entidades: locadora,funcionário,filial.
+atributos: composto:endereço (rua,bairro,cep,cidade e complemento) 
+
